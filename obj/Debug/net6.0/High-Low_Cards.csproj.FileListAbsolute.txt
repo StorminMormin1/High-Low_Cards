@@ -1,0 +1,15 @@
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.csproj.AssemblyReference.cache
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.AssemblyInfoInputs.cache
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.AssemblyInfo.cs
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.csproj.CoreCompileInputs.cache
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\High-Low_Cards.exe
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\High-Low_Cards.deps.json
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\High-Low_Cards.runtimeconfig.json
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\High-Low_Cards.dll
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\ref\High-Low_Cards.dll
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\bin\Debug\net6.0\High-Low_Cards.pdb
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.dll
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\ref\High-Low_Cards.dll
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.pdb
+C:\Users\mikem\Documents\BYUI Files\2022-Winter Semester\CSE 210 - Programming with Classes\L02 - Developer - High Low Card Game\High-Low_Cards\obj\Debug\net6.0\High-Low_Cards.genruntimeconfig.cache
